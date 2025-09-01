@@ -1,0 +1,6 @@
+{
+  "name": "AI Image Studio",
+  "description": "An application to generate images in various styles from text prompts and reference images using Google's AI models.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
